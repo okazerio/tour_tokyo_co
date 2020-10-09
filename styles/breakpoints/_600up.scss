@@ -1,0 +1,37 @@
+.flex {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.find {
+    &__item {
+        flex-basis: 50%;
+        margin-bottom: 60px;
+    }
+}
+
+.tour {
+    &__inner {
+        padding: 50px;
+    }
+    &__texts,
+    &__img {
+        flex-basis: 47%;
+    }
+
+    &__texts {
+        display: flex;
+        align-items: flex-end;
+    }
+}
+
+.footer {
+    & .logo {
+        justify-content: flex-start;
+    }
+
+    &__li {
+        margin-left: 0;
+        margin-right: 30px;
+    }
+}
