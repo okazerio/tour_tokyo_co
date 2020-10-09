@@ -17,5 +17,5 @@ https://tourtokyoco.herokuapp.com<br>
 <ul>
 <li>OS： Mac OSX 10.15.6
 <li>使用言語： HTML/CSS(SCSS), JavaScript
-<li>使用ライブラリ： IntersectionObserver.js, swiper.min.js, TweenMax.min.js, Pace.js
+<li>使用ライブラリ： IntersectionObserver.js, Swiper.min.js, TweenMax.min.js, Pace.js
 </ul>
