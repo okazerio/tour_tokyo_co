@@ -10,8 +10,10 @@ SCSSとJavaScriptを用いてスライダーやアニメーションを実装し
 https://tourtokyoco.herokuapp.com<br>
 <br>
 <strong>デモ</strong><br>
-![mysore](https://user-images.githubusercontent.com/70677663/93037484-7e634000-f67d-11ea-8866-e48c041aaa0d.gif)<br>
+![output](https://user-images.githubusercontent.com/70677663/95552781-4961c780-0a48-11eb-937c-b000f2a27be4.gif)<br>
 <br>
+
+
 
 # 開発環境・言語等
 <ul>
